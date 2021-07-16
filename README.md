@@ -21,4 +21,4 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-phi-seven.vercel.app/api/spotify)](https://open.spotify.com/user/e4a8bb94pgonaf16canyd0l57)
+[<img src="https://spotify-now-playing-afterjs.vercel.app/api/spotify" alt="afterjs spotify playing" width="350" />](https://open.spotify.com/user/e4a8bb94pgonaf16canyd0l57)
