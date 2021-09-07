@@ -6,6 +6,8 @@
 - Back-end Developer 💻
 - Travel addicted ⛰️
 - I have a puppy named "Diana" 🐶
+- How to reach me info@afterjs.pt 💻
+
 
 ### My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
