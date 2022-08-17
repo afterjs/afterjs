@@ -9,8 +9,8 @@ class Person {
       this.name = name;
       this.age = age;
       this.email = email,
-         this.location = location,
-         this.hobbies = []
+      this.location = location,
+      this.hobbies = []
    }
 
    getInfo() {
