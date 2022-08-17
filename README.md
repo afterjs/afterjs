@@ -1,4 +1,7 @@
-### Hi there, I'm Ricardo - aka AfterJS 🙋‍♂️
+<div align=center> 
+   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&size=30&vCenter=true&lines=Hi%20There%20%F0%9F%96%90,%20I%27m%20Ricardo;%20Fullstack%20Developer%20%F0%9F%92%BB;%20Coffee%20lover%20%E2%98%95" alt="gif" />
+</div>
+<hr>
 
 ```javascript
 class Person {
@@ -31,21 +34,21 @@ console.log(info)
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/e2fe0c53818f577f81e5ec3dc84e5ea7/tenor.gif?itemid=26496730" alt="animated" />
+  <img src="https://media1.tenor.com/images/e2fe0c53818f577f81e5ec3dc84e5ea7/tenor.gif?itemid=26496730" alt="animated" witdh="100px"/>
 </p>
 
 
-### My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NODE" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" style="max-width:100%;"></img>
+<h3 align="center">Languages and Technologies</h3>
+<div align="center">
+   
+
+   ** TO DO **
+
+</div>
+
+
+   
+
 
 
 
