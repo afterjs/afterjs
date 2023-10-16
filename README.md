@@ -23,7 +23,7 @@ class Person {
 
 }
 
-const person = new Person("Ricardo aka Afterjs", 20, "xavieramaro2@gmail.com", "Viana do Castelo, Portugal")
+const person = new Person("Ricardo aka Afterjs", 21, "xavieramaro2@gmail.com", "Viana do Castelo, Portugal")
 person.setHobbies(["Programming", "Listening to music", "Watch Movies"])
 
 info = person.getInfo()
@@ -32,12 +32,23 @@ console.log(info)
 
 ```
 
-<p align="center">
-  <img src="https://media1.tenor.com/images/e2fe0c53818f577f81e5ec3dc84e5ea7/tenor.gif?itemid=26496730" alt="animated" />
-</p>
 
+<p align="center">
+  <img src="https://github.com/afterjs/afterjs/blob/output/whoisme.gif" alt="animated" />
+</p>
+<div align="center"> 
+  <a href="https://instagram.com/ricardoamaro01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:xavieramaro2@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardoxma01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+ 
+ <hr>
+ 
+<h3 align="center">👨‍💻Languages and Technologies👨‍💻</h3>
 
 <div align="center" style="display: inline_block;"><br>
+  
    <img align="center" alt="Master-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Master-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" alt="Master-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -58,22 +69,10 @@ console.log(info)
 
 <br>
 
-<div align="center"> 
-  <a href="https://instagram.com/ricardoamaro01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:xavieramaro2@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardoxma01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 
-
-   
-
-
-
+![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
 
 
 
