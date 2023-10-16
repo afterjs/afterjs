@@ -58,14 +58,9 @@ console.log(info)
   <a href = "mailto:xavieramaro2@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardoxma01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
- 
+   ![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-
-
-<p align="center">
-  <img src="https://media1.tenor.com/images/e2fe0c53818f577f81e5ec3dc84e5ea7/tenor.gif?itemid=26496730" alt="animated" witdh="100px"/>
-</p>
 
 
 
@@ -76,4 +71,4 @@ console.log(info)
 
 
 
-![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
+
