@@ -32,6 +32,11 @@ console.log(info)
 
 ```
 
+<p align="center">
+  <img src="https://media1.tenor.com/images/e2fe0c53818f577f81e5ec3dc84e5ea7/tenor.gif?itemid=26496730" alt="animated" />
+</p>
+
+
 <div align="center" style="display: inline_block;"><br>
    <img align="center" alt="Master-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Master-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
