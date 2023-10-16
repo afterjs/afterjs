@@ -67,12 +67,9 @@ console.log(info)
    <img align="center" alt="Master-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-<br>
+<div align="center"> 
+   
+   ![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-
-
-![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
-
-
+</div>
 
